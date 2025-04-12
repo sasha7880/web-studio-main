@@ -106,7 +106,7 @@ ul {
 
 .hero {
   background-color: var(--footer-background);
-  background-image: url("./imgs/main-page/hero.jpg");
+  background-image: url("../imgs/main-page/hero.jpg");
 }
 
 .hero-overlay {
@@ -173,19 +173,19 @@ ul {
 }
 
 .antena::before {
-  content: url("./images/main-page/antenna.jpg");
+  content: url("../imgs/main-page/antenna.jpg");
 }
 
 .astronaut::before {
-  content: url("./images/main-page/astronaut.jpg");
+  content: url("../imgs/main-page/astronaut.jpg");
 }
 
 .diagrama::before {
-  content: url("./images/main-page/diagram.jpg");
+  content: url("../imgs/main-page/diagram.jpg");
 }
 
 .clock::before {
-  content: url("./images/main-page/clock.jpg");
+  content: url("../imgs/main-page/clock.jpg");
 }
 
 .benefits-title {
