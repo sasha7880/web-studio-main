@@ -107,6 +107,8 @@ ul {
 .hero {
   background-color: var(--footer-background);
   background-image: url("../imgs/main-page/hero.jpg");
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .hero-overlay {
@@ -138,9 +140,9 @@ ul {
   background-color: var(--color-webstudio);
   color: var(--about-us-section);
   margin: 0 auto;
-  border-width: 0;
+  border-width: 0px;
   border-radius: 4px;
-  font-weight: 700;
+  font-weight: 700px;
   letter-spacing: 0.06em;
   line-height: 30px;
   font-size: 16px;
@@ -165,7 +167,7 @@ ul {
 }
 
 .benefits-title::before {
-  content: '';
+  content: "";
   background-color: var(--background-team);
   padding: 25px 100px;
   display: block;
@@ -364,11 +366,12 @@ ul {
   letter-spacing: 0.03em;
 }
 
+
 /* !POSTFOLIO START*/
 
 .control {
   padding-top: 94px;
-  padding-bottom: 34px;
+  padding-bottom: 50px;
 }
 
 .control-list {
